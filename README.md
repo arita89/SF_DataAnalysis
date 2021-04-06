@@ -1,9 +1,5 @@
-# DataAnalysisExample
+# Analysis of SF data: crime,weather,airbnb
 SF case study to exercise Data Analysis Tools 
-
-<img src="https://github.com/arita89/DataAnalysisExample/blob/main/figures-Images2GIF/crimeMonthYear/assault/assault.gif" width="600"> |
-<img src="https://github.com/arita89/DataAnalysisExample/blob/main/figures-Images2GIF/crimeTime/assault/assault%20in%20time%20.gif" width="300"> |  <img src="https://github.com/arita89/DataAnalysisExample/blob/main/figures/assault_evol.gif" width="300">
-
 
 ## Prerequisites
 
@@ -27,9 +23,13 @@ To load on a pre-existing env:
     ├──../figures-Images2GIF/           # various gif outputs
     ├──../data/                         # raw collected data (.csv,.pkl in gitignore)
     └── ../explainerNoteboooks/
+        ├── (Gif-creator)
         ├── Intro & Data preprocessing                          
         ├── Exploratory Analysis                        
         └── ML Correlations and Predictions          
     
 ```
+
+<img src="https://github.com/arita89/DataAnalysisExample/blob/main/figures-Images2GIF/crimeMonthYear/assault/assault.gif" width="800"> |
+<img src="https://github.com/arita89/DataAnalysisExample/blob/main/figures-Images2GIF/crimeTime/assault/assault%20in%20time%20.gif" width="400"> |  <img src="https://github.com/arita89/DataAnalysisExample/blob/main/figures/assault_evol.gif" width="400">
 
