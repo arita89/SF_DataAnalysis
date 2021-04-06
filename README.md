@@ -1,6 +1,6 @@
 # Analysis of SF data: crime,weather,airbnb
 SF case study to exercise Data Analysis Tools.
-Note that some plots (folium maps for example) might not be visible without re-running the notebooks, which require the environment built by requirement.txt and data sets.
+Note that some plots (folium maps for example) might not be visible without re-running the notebooks, which require the environment built by requirement.txt and to load the datasets.
 
 ## Prerequisites
 
